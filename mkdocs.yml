@@ -1,11 +1,11 @@
-site_name: 'HYR-SENSE workshop'
-site_description: 'Central resource for NASA-ESIIL HYR-SENSE workshop'
-site_author: ESIIL and NASA staff
-site_url: https://cu-esiil.github.io/HYR-SENSE
+site_name: 'HYR-SENSE workshop Byron Andrew'
+site_description: 'Byron Resource for NASA-ESIIL HYR-SENSE workshop'
+site_author: Byron Andrew
+site_url: https://cu-esiil.github.io/HYR-SENSE-Byron-Andrew
 
 # Repository
 repo_name: HYR-SENSE
-repo_url: https://github.com/CU-ESIIL/HYR-SENSE
+repo_url: https://github.com/CU-ESIIL/HYR-SENSE_BYRON-ANDREW/edit/main/mkdocs.yml
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
